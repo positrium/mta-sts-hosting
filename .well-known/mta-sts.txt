@@ -1,4 +1,4 @@
 version: STSv1
 mode: testing
 mx: *.positrium.org
-max_age: 86400
+max_age: 604800
