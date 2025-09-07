@@ -1,1 +1,0 @@
-.well-known/mta-sts.txt
